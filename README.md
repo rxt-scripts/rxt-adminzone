@@ -16,3 +16,6 @@ This script disables stealth mode for all players in your FiveM server. Ideal fo
 ---
 
 ## Documentation - Coming Soon
+
+
+---
